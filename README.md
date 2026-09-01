@@ -1,3 +1,9 @@
 # Portfolio
 
-This site was built with ChatISA's Portfolio Builder and is published with GitHub Pages. Edit index.html to make it yours. Project files live under projects/.
+Personal portfolio website: https://aashbhar.github.io/portfolio/
+
+## What I changed
+
+- Rewrote the About section. The draft called me a data scientist; I am a junior looking for a supply chain analytics internship.
+- Fixed the course names under Coursework, which were cut off.
+- Removed the CLIP notebook project because the description was not accurate.
